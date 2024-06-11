@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-radio-buttons-group": "^3.1.0",
+    "react-radio-group": "^3.0.3",
+    "react-semantic-ui": "^0.2.0"
+  }
+}
